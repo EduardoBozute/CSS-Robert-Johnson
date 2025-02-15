@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    float: left;
+    object-fit: cover;
+    margin-right: 15px;
+}
+
+.text {
+    font-size: 24px;
+}
+
+footer {
+    clear: left;
+    text-align: right;
+}
